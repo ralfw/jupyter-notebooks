@@ -52,7 +52,7 @@ ENV DOTNET_RUNNING_IN_CONTAINER=true \
 RUN dotnet help
 
 # Copy notebooks
-### COPY . ${HOME}/Notebooks/
+COPY . ${HOME}/Notebooks/
 
 # Copy package sources
 # COPY ./NuGet.config ${HOME}/nuget.config
@@ -74,4 +74,4 @@ RUN dotnet try jupyter install
 ENV DOTNET_TRY_CLI_TELEMETRY_OPTOUT=false
 
 # Set root to Notebooks
-### WORKDIR ${HOME}/Notebooks/
+WORKDIR ${HOME}/Notebooks/
