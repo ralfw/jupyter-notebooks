@@ -20,3 +20,8 @@ oder eher nach der analyse pro feature?
 "Names are a form of abstraction: they provide a simplified way of thinking about a more complex underlying entity. Like other forms of abstraction, the best names are those that focus attention on what is most important about the underlying entity while omitting details that are less important.",
 A Philosophy of Software Design
 John Ousterhout
+
+ein notebook für slicing
+
+# problemschwierigkeitsgrade
+ohne akzeptantests kein produktionscode
