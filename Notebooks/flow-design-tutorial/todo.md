@@ -23,5 +23,23 @@ John Ousterhout
 
 ein notebook für slicing
 
-# problemschwierigkeitsgrade
+
+# slicing
+nicht nur bis zur message, sondern auch bis zum feature. das kann im akzeptanztest repräsentiert sein - führt aber nicht unbedingt zu einer eigenen, neuen message.
+
+# entwurf
+
+# codierung
+## problemschwierigkeitsgrade
 ohne akzeptantests kein produktionscode
+## arbeitsteilung
+für die codierung das modell heranziehen
+
+# kritik
+wo kann kritik geübt werden an zb:
+
+* daily standups
+* schätzungen
+* velocity
+* story points
+* cTDD
