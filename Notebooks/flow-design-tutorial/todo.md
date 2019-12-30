@@ -28,6 +28,8 @@ ein notebook für slicing
 nicht nur bis zur message, sondern auch bis zum feature. das kann im akzeptanztest repräsentiert sein - führt aber nicht unbedingt zu einer eigenen, neuen message.
 
 # entwurf
+stratified design
+keine dark logik in der integration. der zusammenschluss der kindknoten ergibt den parentknoten. da bleibt nix offen. alles muss zueinander passen.
 
 # codierung
 ## problemschwierigkeitsgrade
