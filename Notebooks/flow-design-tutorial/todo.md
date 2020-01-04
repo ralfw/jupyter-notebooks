@@ -34,6 +34,8 @@ keine dark logik in der integration. der zusammenschluss der kindknoten ergibt d
 abhängigkeiten in richtung sinkender abstraktion
 auf demselben abstraktionsniveau keine (!) abhängigkeiten.
 
+module werden mit wachsendem level immer unkonkreter: funktion ist entweder integration oder operation. klasse kann auch noch fokussieren, aber bib usw.?
+
 # codierung
 ## problemschwierigkeitsgrade
 ohne akzeptantests kein produktionscode
