@@ -31,6 +31,9 @@ nicht nur bis zur message, sondern auch bis zum feature. das kann im akzeptanzte
 stratified design
 keine dark logik in der integration. der zusammenschluss der kindknoten ergibt den parentknoten. da bleibt nix offen. alles muss zueinander passen.
 
+abhängigkeiten in richtung sinkender abstraktion
+auf demselben abstraktionsniveau keine (!) abhängigkeiten.
+
 # codierung
 ## problemschwierigkeitsgrade
 ohne akzeptantests kein produktionscode
