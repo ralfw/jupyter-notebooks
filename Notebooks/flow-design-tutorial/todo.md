@@ -37,6 +37,9 @@ auf demselben abstraktionsniveau keine (!) abhängigkeiten.
 module werden mit wachsendem level immer unkonkreter: funktion ist entweder integration oder operation. klasse kann auch noch fokussieren, aber bib usw.?
 
 # codierung
+## testen im funktionsbaum
+testarten
+wo tests ansetzen nicht beim entwurf besprechen!
 ## problemschwierigkeitsgrade
 ohne akzeptantests kein produktionscode
 ## arbeitsteilung
